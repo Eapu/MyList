@@ -1,2 +1,3 @@
 # MyList
-Shopping List with Tkinter
+Tkinter listbox.
+Python2.7
