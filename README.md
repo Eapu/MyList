@@ -1,2 +1,2 @@
 # MyList
-Shopping List
+Shopping List with Tkinter
